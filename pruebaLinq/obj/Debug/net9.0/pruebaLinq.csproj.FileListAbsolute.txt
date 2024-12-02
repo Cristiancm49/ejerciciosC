@@ -1,0 +1,15 @@
+D:\proyectos\POO\pruebaLinq\bin\Debug\net9.0\pruebaLinq.exe
+D:\proyectos\POO\pruebaLinq\bin\Debug\net9.0\pruebaLinq.deps.json
+D:\proyectos\POO\pruebaLinq\bin\Debug\net9.0\pruebaLinq.runtimeconfig.json
+D:\proyectos\POO\pruebaLinq\bin\Debug\net9.0\pruebaLinq.dll
+D:\proyectos\POO\pruebaLinq\bin\Debug\net9.0\pruebaLinq.pdb
+D:\proyectos\POO\pruebaLinq\obj\Debug\net9.0\pruebaLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos\POO\pruebaLinq\obj\Debug\net9.0\pruebaLinq.AssemblyInfoInputs.cache
+D:\proyectos\POO\pruebaLinq\obj\Debug\net9.0\pruebaLinq.AssemblyInfo.cs
+D:\proyectos\POO\pruebaLinq\obj\Debug\net9.0\pruebaLinq.csproj.CoreCompileInputs.cache
+D:\proyectos\POO\pruebaLinq\obj\Debug\net9.0\pruebaLinq.sourcelink.json
+D:\proyectos\POO\pruebaLinq\obj\Debug\net9.0\pruebaLinq.dll
+D:\proyectos\POO\pruebaLinq\obj\Debug\net9.0\refint\pruebaLinq.dll
+D:\proyectos\POO\pruebaLinq\obj\Debug\net9.0\pruebaLinq.pdb
+D:\proyectos\POO\pruebaLinq\obj\Debug\net9.0\pruebaLinq.genruntimeconfig.cache
+D:\proyectos\POO\pruebaLinq\obj\Debug\net9.0\ref\pruebaLinq.dll
